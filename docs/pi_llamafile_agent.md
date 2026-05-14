@@ -6,6 +6,8 @@ This is a relatively simpe example of a Web agent, that has search + fetch capab
 - Pi: https://pi.dev/
 - SearXNG website: https://docs.searxng.org/
 - SearXNG instances (if you don't want to install your own): https://searx.space/ (note, however, that most of them do not expose their JSON API, which is required to work with agents)
+- [llamafile 0.10](https://huggingface.co/mozilla-ai/llamafile_0.10)
+- [Docker](https://docs.docker.com/get-started/get-docker/) (you will need this if you want to easily run searxng locally)
 
 ## Install SearXNG
 I have been following the instructions available [here](https://docs.searxng.org/admin/installation-docker.html#manual-instancing) which boil down to:
